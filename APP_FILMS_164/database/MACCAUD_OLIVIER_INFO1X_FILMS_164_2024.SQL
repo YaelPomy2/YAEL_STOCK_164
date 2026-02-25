@@ -47,7 +47,7 @@ INSERT INTO `t_film` (`id_film`, `nom_film`, `duree_film`, `description_film`, `
 (16, 'Ong bak', 148, 'Nong Pradu, un village paisible niché dans une vallée boisée de Thaïlande, est en deuil après le vol de son Bouddha sacré : Ong-Bak. Ting, entraîné secrètement au Muay Thai, art ancien de boxe thaï, se désigne pour aller le récupérer dans la fournaise de Bangkok.', 'https://static.fnac-static.com/multimedia/FR/Images_Produits/FR/fnac.com/Visual_Principal_340/8/2/9/3283451106928/tsp20120928130643/Ong-bak.jpg', '2003-09-23'),
 (17, 'Warrior', 220, 'Ancien Marine brisé, Tommy Conlon rentre au pays et demande à son père de le préparer pour un tournoi d’arts martiaux mixtes qui lui permettrait de gagner une fortune. Personne ne sait ce qu’il espère faire de cet argent.', 'http://www.gstatic.com/tv/thumb/movieposters/8063104/p8063104_p_v8_ah.jpg', '2011-09-11'),
 (18, 'Us', 116, 'Les Wilson comptaient passer quelques jours dans leur maison sur la plage, mais voilà que des invités indésirables se présentent. Ils constatent rapidement que ces étrangers leur ressemblent et qu’ils sont eux-mêmes leurs pires ennemis.', NULL, '2018-04-10'),
-(19, 'Le chat dans la boîte', 273, 'En mars de l\'année 2024. ', 'https://miro.medium.com/v2/resize:fit:4800/format:webp/1*nzzgELHEq0WLB8G2W3P-fw.jpeg', '2022-12-31');
+(19, 'Le chat dans la boîte', 273, 'En février de l\'année 2026. ', 'https://etudestech.com/decryptage/chat-de-schrodinger/', '2026-02-25');
 
 
 -- --------------------------------------------------------
